@@ -1,2 +1,3 @@
 # Hello mundo
- Primeiro repositorio versionado
+ Primeiro repositorio do curso Gi Github
+ 
